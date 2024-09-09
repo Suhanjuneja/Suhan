@@ -24,4 +24,14 @@ CISC is a type of computer architecture that uses a rich set of instructions, wh
 Example:
 x86 Architecture: A widely used CISC architecture found in most personal computers.
 
-**RISC**
+4.**RISC(Reduced Instruction Set Computer)**
+
+RISC, or Reduced Instruction Set Computer, is a type of CPU architecture designed to simplify instruction execution and improve performance by focusing on a smaller, more efficient set of instructions.
+
+Examples of RISC Architectures:
+
+ARM (Advanced RISC Machine): Widely used in mobile devices, tablets, and increasingly in other computing environments due to its power efficiency and performance.
+
+MIPS (Microprocessor without Interlocked Pipeline Stages): Commonly used in academic settings, embedded systems, and some consumer electronics.
+
+PowerPC: Used in older Apple Macintosh computers, some game consoles, and embedded applications.
