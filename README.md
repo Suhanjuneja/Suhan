@@ -35,3 +35,16 @@ ARM (Advanced RISC Machine): Widely used in mobile devices, tablets, and increas
 MIPS (Microprocessor without Interlocked Pipeline Stages): Commonly used in academic settings, embedded systems, and some consumer electronics.
 
 PowerPC: Used in older Apple Macintosh computers, some game consoles, and embedded applications.
+
+5.**RISC-v**
+
+RISC-V (pronounced “RISC-five”) is an open-standard instruction set architecture (ISA) based on the principles of RISC (Reduced Instruction Set Computer). It was designed to be simple, modular, and extensible. 
+
+Examples of RISC-V Implementations:
+
+SiFive: A company that offers RISC-V processors and development boards.
+
+Western Digital: Uses RISC-V cores in some of its storage devices.
+
+Microchip: Provides RISC-V-based microcontrollers for various applications.
+
