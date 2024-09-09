@@ -79,5 +79,10 @@ Fedora: A cutting-edge distribution that showcases the latest in Linux technolog
  1.**INTERNET**[(WAN-wide area network)and it is a public network]
 
  2.**INTRANET**[(LAN-LOCAL AREA NETWORK)and it is a private network]
- 
+
+9. **IP ADRESS**[INTERNET PROTOCOL]
+
+10. IP stands for Internet Protocol, which is a fundamental protocol used for communicating data across networks. It is part of the Internet Protocol Suite, which is the set of protocols used to manage network communications.
+
+11. 
  
