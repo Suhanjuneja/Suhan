@@ -82,7 +82,6 @@ Fedora: A cutting-edge distribution that showcases the latest in Linux technolog
 
 9. **IP ADRESS**[INTERNET PROTOCOL]
 
-10. IP stands for Internet Protocol, which is a fundamental protocol used for communicating data across networks. It is part of the Internet Protocol Suite, which is the set of protocols used to manage network communications.
-
-11. 
+ IP stands for Internet Protocol, which is a fundamental protocol used for communicating data across networks. It is part of the Internet Protocol Suite, which is the set of protocols used to manage network communications.
+ 
  
