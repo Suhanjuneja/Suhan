@@ -70,3 +70,14 @@ Raspberry Pi OS: Formerly Raspbian, optimized for the Raspberry Pi hardware.
 Red Hat Enterprise Linux (RHEL): A commercial distribution focused on enterprise environments, with a strong emphasis on stability and support.
 CentOS: Originally a free and open-source alternative to RHEL, CentOS Stream now serves as a rolling-release variant that tracks just ahead of RHEL.
 Fedora: A cutting-edge distribution that showcases the latest in Linux technology, often serving as a proving ground for features that may later be included in RHEL.
+
+8.**NETWORK**
+
+ A network refers to a system of interconnected computers and other devices that can communicate with each other and share resources. Networks can vary in size, complexity, and purpose.
+ There are two types of network-
+
+ 1.**INTERNET**[(WAN-wide area network)and it is a public network]
+
+ 2.**INTRANET**[(LAN-LOCAL AREA NETWORK)and it is a private network]
+ 
+ 
