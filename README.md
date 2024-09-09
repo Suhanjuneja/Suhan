@@ -48,3 +48,12 @@ Western Digital: Uses RISC-V cores in some of its storage devices.
 
 Microchip: Provides RISC-V-based microcontrollers for various applications.
 
+6.**KERNEL**
+
+The kernel is the core component of an operating system that manages hardware resources, handles system calls, and facilitates communication between hardware and software. It controls processes, memory, device drivers, and file systems, providing essential services and ensuring efficient system operation.
+
+7.**LINUX**
+
+Linux is an open-source, Unix-like operating system kernel that forms the basis for various operating systems (distributions). It manages hardware resources and provides a platform for running applications. Linux is known for its stability, security, and flexibility, and is widely used in servers, desktops, and embedded systems.
+
+8.
