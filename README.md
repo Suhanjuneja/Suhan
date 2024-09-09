@@ -65,7 +65,7 @@ Ubuntu: One of the most popular desktop Linux distributions, known for its user-
 Linux Mint: Based on Ubuntu, it provides a more traditional desktop environment and is known for its ease of use.
 Raspberry Pi OS: Formerly Raspbian, optimized for the Raspberry Pi hardware.
 
-2.** Red Hat-Based Distributions**
+2.**Red Hat-Based Distributions**
 
 Red Hat Enterprise Linux (RHEL): A commercial distribution focused on enterprise environments, with a strong emphasis on stability and support.
 CentOS: Originally a free and open-source alternative to RHEL, CentOS Stream now serves as a rolling-release variant that tracks just ahead of RHEL.
