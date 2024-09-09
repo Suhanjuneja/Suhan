@@ -6,7 +6,22 @@ An operating system (OS) is a crucial software that manages computer hardware an
 ![image alt](https://github.com/Suhanjuneja/Suhan/blob/40bd7523a9e3f66f002341410f9e6d0aef49297e/os.png)
 
 commonly used Operating system(OS) are:
-   1.**WINDOWS**
-   2.**MACos**
-  3. **LINUX**
+
+   **WINDOWS**
+   
+   **MACos**
+   
+   **LINUX**
   
+2.**BARE METAL**
+ 
+Bare metal” refers to a computing environment where software runs directly on the hardware without any intermediary layers such as a traditional operating system. 
+ 
+3.**CISC(COMPLEX INSTRUCTION SET COMPUTER)**
+
+CISC is a type of computer architecture that uses a rich set of instructions, where each instruction can perform multiple low-level operations (such as arithmetic, memory access, or logic operations) in a single instruction cycle.
+
+Example:
+x86 Architecture: A widely used CISC architecture found in most personal computers.
+
+**RISC**
