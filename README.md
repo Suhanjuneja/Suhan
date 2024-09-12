@@ -173,3 +173,5 @@ Key Concepts of Virtual Machines:
 **Cloning:** Creating an identical copy of a VM. Cloning is useful for deploying multiple instances of the same VM configuration.
 
 **Isolation:** Each VM operates independently, with its own operating system and applications. This isolation ensures that issues or failures in one VM do not affect others on the same host.
+
+18.**SEMI-CONDUCTERS**
