@@ -105,3 +105,9 @@ JavaScript: This programming language adds interactivity to web pages. It enable
 **BACK END**
 
 Back-end development focuses on the server side of a web application or website. It involves everything that happens on the server and is not visible to users directly. This includes the logic, database interactions, authentication, and server configuration.
+
+Key Components of Back-End Development:
+
+HTML (HyperText Markup Language): The fundamental building block of web pages, HTML provides the structure and content of a webpage.
+
+JavaScript: This programming language adds interactivity to web pages. It enables dynamic content updates, form validation, animations, and more.
