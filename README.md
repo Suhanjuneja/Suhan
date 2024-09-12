@@ -102,7 +102,7 @@ CSS (Cascading Style Sheets): CSS is used to style and layout web pages. It cont
 
 JavaScript: This programming language adds interactivity to web pages. It enables dynamic content updates, form validation, animations, and more.
 
-**BACK END**
+11.**BACK END**
 
 Back-end development focuses on the server side of a web application or website. It involves everything that happens on the server and is not visible to users directly. This includes the logic, database interactions, authentication, and server configuration.
 
@@ -111,3 +111,11 @@ Key Components of Back-End Development:
 HTML (HyperText Markup Language): The fundamental building block of web pages, HTML provides the structure and content of a webpage.
 
 JavaScript: This programming language adds interactivity to web pages. It enables dynamic content updates, form validation, animations, and more.
+
+12.**DEVOPS**
+
+DevOps is a set of practices and cultural philosophies aimed at improving collaboration between development (Dev) and operations (Ops) teams. The goal of DevOps is to streamline the software development lifecycle (SDLC) and enhance the ability to deliver applications and services at high velocity. This involves integrating and automating the processes involved in software development, deployment, and operations.
+
+13.**VPN(Virtual Private Network)**
+
+A VPN (Virtual Private Network) is a technology that creates a secure and encrypted connection over a less secure network, such as the internet. VPNs are used to protect data privacy, enhance security, and provide anonymity while browsing online. Here’s a deeper look at what VPNs are and how they work
