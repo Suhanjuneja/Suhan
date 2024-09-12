@@ -93,3 +93,11 @@ IPv6: This is a newer format designed to address the limitations of IPv4, featur
 10.**FRONT END**
 
 "Front end" refers to the part of a web application or website that users interact with directly. It encompasses everything that users see and engage with on the screen.
+
+Key Components of Front-End Development:
+
+TML (HyperText Markup Language): The fundamental building block of web pages, HTML provides the structure and content of a webpage.
+
+CSS (Cascading Style Sheets): CSS is used to style and layout web pages. It controls the visual appearance, including colors, fonts, spacing, and positioning.
+
+JavaScript: This programming language adds interactivity to web pages. It enables dynamic content updates, form validation, animations, and more.
