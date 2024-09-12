@@ -156,20 +156,20 @@ A virtual machine (VM) is a software-based emulation of a physical computer. It 
 
 Key Concepts of Virtual Machines:
 
-Host Machine: The physical computer that provides the resources (CPU, memory, storage, etc.) for the virtual machines. It runs a hypervisor to manage and allocate resources to VMs.
+**Host Machine:** The physical computer that provides the resources (CPU, memory, storage, etc.) for the virtual machines. It runs a hypervisor to manage and allocate resources to VMs.
 
-Guest Machine: The virtualized environment that runs its own operating system and applications. Each VM is a guest machine, isolated from other VMs on the same host.
+**Guest Machine**: The virtualized environment that runs its own operating system and applications. Each VM is a guest machine, isolated from other VMs on the same host.
 
-Hypervisor (Virtual Machine Monitor): Software that creates and manages virtual machines by abstracting and allocating the host machine’s resources. There are two types of hypervisors:
+**Hypervisor (Virtual Machine Monitor):** Software that creates and manages virtual machines by abstracting and allocating the host machine’s resources. There are two types of hypervisors:
 
-Type 1 Hypervisor: Runs directly on the host's hardware and is often referred to as a "bare-metal" hypervisor. Examples include VMware ESXi, Microsoft Hyper-V, and Xen.
+**Type 1 Hypervisor:** Runs directly on the host's hardware and is often referred to as a "bare-metal" hypervisor. Examples include VMware ESXi, Microsoft Hyper-V, and Xen.
 
-Type 2 Hypervisor: Runs on top of a conventional operating system. It is also known as a "hosted" hypervisor. Examples include VMware Workstation, Oracle VirtualBox, and Parallels Desktop.
+**Type 2 Hypervisor:** Runs on top of a conventional operating system. It is also known as a "hosted" hypervisor. Examples include VMware Workstation, Oracle VirtualBox, and Parallels Desktop.
 
-Virtualization: The process of creating virtual versions of physical resources, such as servers, storage devices, and network resources. Virtualization enables multiple VMs to share the same physical resources efficiently.
+**Virtualization:** The process of creating virtual versions of physical resources, such as servers, storage devices, and network resources. Virtualization enables multiple VMs to share the same physical resources efficiently.
 
-Snapshot: A saved state of a VM at a specific point in time. Snapshots allow you to revert a VM to a previous state if needed.
+**Snapshot:** A saved state of a VM at a specific point in time. Snapshots allow you to revert a VM to a previous state if needed.
 
-Cloning: Creating an identical copy of a VM. Cloning is useful for deploying multiple instances of the same VM configuration.
+**Cloning:** Creating an identical copy of a VM. Cloning is useful for deploying multiple instances of the same VM configuration.
 
-Isolation: Each VM operates independently, with its own operating system and applications. This isolation ensures that issues or failures in one VM do not affect others on the same host.
+**Isolation:** Each VM operates independently, with its own operating system and applications. This isolation ensures that issues or failures in one VM do not affect others on the same host.
