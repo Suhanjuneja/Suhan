@@ -119,3 +119,7 @@ DevOps is a set of practices and cultural philosophies aimed at improving collab
 13.**VPN(Virtual Private Network)**
 
 A VPN (Virtual Private Network) is a technology that creates a secure and encrypted connection over a less secure network, such as the internet. VPNs are used to protect data privacy, enhance security, and provide anonymity while browsing online. Here’s a deeper look at what VPNs are and how they work
+
+**DBMS(DATA BASE MANAGEMENT SYSTEM)**
+
+A DBMS (Database Management System) is software that facilitates the creation, management, and manipulation of databases. It acts as an intermediary between users and the database, allowing for efficient data storage, retrieval, and manipulation. 
