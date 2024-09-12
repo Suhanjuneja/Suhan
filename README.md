@@ -120,6 +120,35 @@ DevOps is a set of practices and cultural philosophies aimed at improving collab
 
 A VPN (Virtual Private Network) is a technology that creates a secure and encrypted connection over a less secure network, such as the internet. VPNs are used to protect data privacy, enhance security, and provide anonymity while browsing online. Here’s a deeper look at what VPNs are and how they work
 
-**DBMS(DATA BASE MANAGEMENT SYSTEM)**
+14.**DBMS(DATA BASE MANAGEMENT SYSTEM)**
 
 A DBMS (Database Management System) is software that facilitates the creation, management, and manipulation of databases. It acts as an intermediary between users and the database, allowing for efficient data storage, retrieval, and manipulation. 
+
+15.**BLOCK CHAIN**
+
+Blockchain is a decentralized, distributed ledger technology that ensures the integrity and security of digital transactions and data. It is most commonly associated with cryptocurrencies, but its applications extend far beyond that. 
+
+16.**FIREWALL**
+
+A firewall is a network security device or software that monitors, filters, and controls incoming and outgoing network traffic based on predetermined security rules. Its primary purpose is to establish a barrier between a trusted internal network (such as a company's internal network) and untrusted external networks (such as the internet), thereby protecting the internal network from unauthorized access, attacks, and other security threats.
+
+Types of Firewalls:
+
+**Network Firewalls**:
+
+Hardware Firewalls: Physical devices placed between a network and its internet connection. They provide a centralized point for network security and can handle large volumes of traffic. Examples include Cisco ASA, Fortinet FortiGate, and Palo Alto Networks firewalls. 
+
+Software Firewalls: Installed on individual computers or servers to monitor and control traffic going to and from those devices. Examples include Windows Defender Firewall and ZoneAlarm.
+
+**Host-Based Firewalls**:
+
+Personal Firewalls: Installed on individual devices (e.g., PCs or smartphones) to protect them from threats. They provide a layer of security for each device.
+
+Server Firewalls: Installed on servers to protect them from unauthorized access and attacks.
+
+**Cloud Firewalls**:
+
+Cloud-Based Firewalls: Deployed in a cloud environment to protect cloud-based resources and applications. They can be offered as a service by cloud providers. Examples include AWS WAF (Web Application Firewall) and Azure Firewall.
+
+
+
