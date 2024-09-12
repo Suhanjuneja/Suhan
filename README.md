@@ -84,4 +84,8 @@ Fedora: A cutting-edge distribution that showcases the latest in Linux technolog
 
  IP stands for Internet Protocol, which is a fundamental protocol used for communicating data across networks. It is part of the Internet Protocol Suite, which is the set of protocols used to manage network communications.
  
- 
+There are two main types of IP addresses:
+
+IPv4: This is the most common format and looks like four sets of numbers separated by periods (e.g., 192.168.1.1). It has a limited number of possible addresses.
+
+IPv6: This is a newer format designed to address the limitations of IPv4, featuring a much larger address space. It consists of eight groups of four hexadecimal digits separated by colons (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
