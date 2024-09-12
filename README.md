@@ -101,3 +101,7 @@ TML (HyperText Markup Language): The fundamental building block of web pages, HT
 CSS (Cascading Style Sheets): CSS is used to style and layout web pages. It controls the visual appearance, including colors, fonts, spacing, and positioning.
 
 JavaScript: This programming language adds interactivity to web pages. It enables dynamic content updates, form validation, animations, and more.
+
+**BACK END**
+
+Back-end development focuses on the server side of a web application or website. It involves everything that happens on the server and is not visible to users directly. This includes the logic, database interactions, authentication, and server configuration.
