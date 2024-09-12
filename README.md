@@ -175,3 +175,5 @@ Key Concepts of Virtual Machines:
 **Isolation:** Each VM operates independently, with its own operating system and applications. This isolation ensures that issues or failures in one VM do not affect others on the same host.
 
 18.**SEMI-CONDUCTERS**
+
+A semiconductor is a material that has electrical conductivity between that of a conductor and an insulator. Semiconductors are essential to modern electronics because they can be engineered to control electrical current in various ways, making them fundamental to the operation of electronic devices such as computers, smartphones, and many other digital gadgets.
