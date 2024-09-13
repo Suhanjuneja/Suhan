@@ -177,3 +177,19 @@ Key Concepts of Virtual Machines:
 18.**SEMI-CONDUCTERS**
 
 A semiconductor is a material that has electrical conductivity between that of a conductor and an insulator. Semiconductors are essential to modern electronics because they can be engineered to control electrical current in various ways, making them fundamental to the operation of electronic devices such as computers, smartphones, and many other digital gadgets.
+
+Importance
+
+Their ability to control electrical signals and switch between conductive and non-conductive states makes them indispensable for the functionality and advancement of electronic devices and systems.
+
+19.**CLOUD COMPUTING**
+
+Cloud computing delivers computing services over the internet, or "the cloud," allowing users to access and manage resources like servers, storage, databases, networking, software, and analytics without having to own or maintain physical hardware. Instead, users pay for the services they use on a subscription or pay-as-you-go basis.
+
+Key Models of Cloud Computing
+
+**Infrastructure as a Service (IaaS):** Provides virtualized computing resources over the internet. Users can rent virtual machines, storage, and networks from cloud providers. Examples include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+**Platform as a Service (PaaS):** Offers hardware and software tools over the internet, often used for application development. It provides a platform allowing developers to build, deploy, and manage applications without dealing with the underlying infrastructure. Examples include Heroku and Google App Engine.
+
+**Software as a Service (SaaS):** Delivers software applications over the internet on a subscription basis. Users access these applications through a web browser, without needing to install or maintain the software locally. Examples include Google Workspace, Microsoft 365, and Salesforce.
