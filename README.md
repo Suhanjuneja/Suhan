@@ -407,4 +407,25 @@ on Neumann Architecture is a foundational model for designing computer systems, 
 
 Harvard Architecture is a computer architecture that addresses some of the limitations of the Von Neumann Architecture by using separate memory and pathways for data and instructions. This separation allows for more efficient processing and reduces some of the bottlenecks inherent in Von Neumann systems. 
 
-49.**DATA 
+49.**DATA STRUCTURE**
+
+Data structures are fundamental concepts in computer science used to store, organize, and manage data efficiently. They provide a way to collect and organize data so that it can be used effectively by algorithms and applications. Understanding data structures is crucial for developing efficient software and solving complex problems
+
+Basic Data Structures
+
+(1)Array
+
+(2)Linked List
+
+(3)Stack
+
+(4)Queue
+
+(5)Hash Table
+
+50.**DOMAIN NAME SYSTEM(DNS)**
+
+Domain Name System (DNS) is a fundamental component of the Internet that translates human-readable domain names into IP addresses, enabling users to access websites and services using easy-to-remember names rather than numerical IP addresses.
+
+
+
