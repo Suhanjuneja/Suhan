@@ -415,6 +415,8 @@ Harvard Architecture is a computer architecture that addresses some of the limit
 
 Data structures are fundamental concepts in computer science used to store, organize, and manage data efficiently. They provide a way to collect and organize data so that it can be used effectively by algorithms and applications. Understanding data structures is crucial for developing efficient software and solving complex problems
 
+![image alt](
+
 Basic Data Structures
 
 (1)Array
