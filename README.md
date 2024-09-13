@@ -357,4 +357,54 @@ Closed Source software, also known as proprietary software, refers to software w
 
 Flutter is an open-source UI software development toolkit created by Google for building natively compiled applications for mobile, web, and desktop from a single codebase. It’s widely used for developing cross-platform applications and offers a range of features and advantages for developers.
 
-43.**
+43.**.SOC(SYSTEM ON A CHIP)**
+
+A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. As the name suggests, it is an entire system fabricated on a silicon chip. The beauty of an SoC is that it integrates all the components on a single substrate. In semiconductors, a substrate is a thin film of silicon used to fabricate integrated circuits. In contrast to the traditional motherboard, SoC integrates the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
+
+44.**COMPUTER SYSTEM ARCHITECTURE**
+
+Computer System Architecture refers to the design and organization of a computer system's hardware components and their interaction with each other and with software. It encompasses the structure and behavior of a computer system, defining how the various elements work together to perform computing tasks. Understanding computer system architecture is fundamental for designing efficient and effective computer systems. 
+
+45.**Central Processing Unit (CPU)**
+
+The Central Processing Unit (CPU) is often referred to as the "brain" of a computer system. It is responsible for executing instructions from programs and performing basic arithmetic, logical, control, and input/output (I/O) operations. The CPU plays a central role in determining the overall performance and capabilities of a computer.
+
+Components of a CPU
+
+**Control Unit (CU)**
+
+Function: Directs the operations of the CPU by fetching instructions from memory, decoding them, and executing them. It manages the flow of data within the CPU and between the CPU and other components.
+
+Tasks: Coordinates activities by sending control signals to other parts of the computer, ensuring that operations are performed in the correct sequence.
+
+**Arithmetic Logic Unit (ALU)**
+
+Function: Performs arithmetic and logical operations on data. This includes basic operations like addition, subtraction, multiplication, division, and logical operations such as AND, OR, NOT.
+
+Tasks: Executes the mathematical calculations and logical comparisons required by programs.
+
+**Cache Memory**
+
+Function: Provides a high-speed storage area for frequently accessed data and instructions to reduce the time the CPU spends accessing data from the slower main memory (RAM).
+
+Levels:
+
+L1 Cache: Smallest and fastest cache, located inside the CPU.
+
+L2 Cache: Larger and slightly slower than L1, but still faster than main memory.
+
+L3 Cache: Even larger and slower, shared among multiple CPU cores.
+
+46.**Motherboard**
+
+The main circuit board that houses the CPU, memory, and other components. It provides the physical and electrical connections between these components.
+
+47.**Von Neumann Architecture**
+
+on Neumann Architecture is a foundational model for designing computer systems, named after mathematician and computer scientist John von Neumann. Introduced in the 1940s, it forms the basis for most contemporary computer designs. 
+
+48.**Harvard Architecture**
+
+Harvard Architecture is a computer architecture that addresses some of the limitations of the Von Neumann Architecture by using separate memory and pathways for data and instructions. This separation allows for more efficient processing and reduces some of the bottlenecks inherent in Von Neumann systems. 
+
+49.**DATA 
