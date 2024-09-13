@@ -56,6 +56,8 @@ The kernel is the core component of an operating system that manages hardware re
 
 Linux is an open-source, Unix-like operating system kernel that forms the basis for various operating systems (distributions). It manages hardware resources and provides a platform for running applications. Linux is known for its stability, security, and flexibility, and is widely used in servers, desktops, and embedded systems.
 
+![image alt](
+
 broad categorization of Linux distributions:
 
 1. **Debian-Based Distributions**
@@ -70,8 +72,6 @@ Raspberry Pi OS: Formerly Raspbian, optimized for the Raspberry Pi hardware.
 Red Hat Enterprise Linux (RHEL): A commercial distribution focused on enterprise environments, with a strong emphasis on stability and support.
 CentOS: Originally a free and open-source alternative to RHEL, CentOS Stream now serves as a rolling-release variant that tracks just ahead of RHEL.
 Fedora: A cutting-edge distribution that showcases the latest in Linux technology, often serving as a proving ground for features that may later be included in RHEL.
-
-![image alt](https://github.com/Suhanjuneja/Suhan/blob/d13dea52043cf3f2bb3a78fd2e119ff8c329c63d/red-hat.htm)
 
 8.**NETWORK**
 
