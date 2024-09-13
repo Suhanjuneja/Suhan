@@ -427,5 +427,7 @@ Basic Data Structures
 
 Domain Name System (DNS) is a fundamental component of the Internet that translates human-readable domain names into IP addresses, enabling users to access websites and services using easy-to-remember names rather than numerical IP addresses.
 
+51.**SYNTAX**
 
+Syntax refers to the set of rules and principles that govern the structure of sentences in a language, whether it's a natural language like English or a formal language used in programming. Understanding syntax is crucial for both human communication and computer programming
 
