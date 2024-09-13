@@ -316,6 +316,8 @@ A proxy server acts as an intermediary between a client (such as a web browser) 
 
 GitHub is a popular web-based platform for version control and collaborative software development using Git. It provides tools and services for managing software projects, tracking changes, and collaborating with other developers
 
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/ad759937c5ae0b9a70dc3eb97143ee741f4137c1/github-logo.webp)
+
 32.**MINING**
 
 Mining, in the context of computing and cryptocurrencies, refers to different processes depending on the specific area.
