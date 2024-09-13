@@ -104,7 +104,7 @@ CSS (Cascading Style Sheets): CSS is used to style and layout web pages. It cont
 
 JavaScript: This programming language adds interactivity to web pages. It enables dynamic content updates, form validation, animations, and more.
 
-
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/e29f92aff3aca1774e935a1af939e5ba7d31254c/frontendbackend.jpeg)
 
 11.**BACK END**
 
