@@ -193,3 +193,50 @@ Key Models of Cloud Computing
 **Platform as a Service (PaaS):** Offers hardware and software tools over the internet, often used for application development. It provides a platform allowing developers to build, deploy, and manage applications without dealing with the underlying infrastructure. Examples include Heroku and Google App Engine.
 
 **Software as a Service (SaaS):** Delivers software applications over the internet on a subscription basis. Users access these applications through a web browser, without needing to install or maintain the software locally. Examples include Google Workspace, Microsoft 365, and Salesforce.
+
+20.**PORT NUMBER**
+
+In computer networking, a port number is a numerical identifier in network protocols used to specify specific processes or services running on a server or a device. Port numbers help direct traffic to the appropriate application or service within a system. 
+
+Common Port Numbers
+
+**HTTP:** Port 80
+
+**HTTPS:** Port 443
+
+**FTP:** Port 21
+
+**SMTP:** Port 25 (for sending emails)
+
+**POP3:** Port 110 (for receiving emails)
+
+**IMAP:** Port 143 (for email retrieval)
+
+**DNS:** Port 53 (for domain name resolution)
+
+**SSH:** Port 22 (for secure shell access)
+
+**Telnet:** Port 23 (for text-based communication)
+
+21.**CACHE**
+
+A cache is a high-speed storage layer that temporarily holds frequently accessed data to improve the efficiency and performance of systems. Caching is used in various computing contexts, from CPUs and web browsers to databases and web servers.
+
+22.**.SEVEN LAYER OF OSI[OPEN SYSTEM INTERCONNECTION]** 
+
+~layer1-digital(1 and 0)
+
+~layer2-hardware address-NIC,MAC
+
+~layer3-IP ADDRESS[32 bits]
+
+~layer4-port number[16 bits]
+
+~layer5-cryptography
+
+~layer6-presentation
+
+~layer7-application/protocol
+
+
+
