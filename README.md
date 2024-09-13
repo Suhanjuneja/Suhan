@@ -304,3 +304,43 @@ It is an integrated circuit (IC) chip customized for a particular use, rather th
 
 connects device in network to each other, enabling them to each other, enabling them to talk by exchanging data packets.
 
+30.**PROXY SERVER**
+
+A proxy server acts as an intermediary between a client (such as a web browser) and a destination server (such as a web server). It facilitates communication by forwarding requests and responses between the client and the server. Proxy servers are used for various purposes, including improving performance, enhancing security, and managing network traffic.
+
+31.**GITHUB**
+
+GitHub is a popular web-based platform for version control and collaborative software development using Git. It provides tools and services for managing software projects, tracking changes, and collaborating with other developers
+
+32.**MINING**
+
+Mining, in the context of computing and cryptocurrencies, refers to different processes depending on the specific area.
+
+33.**Cryptocurrencies Mining**
+
+Cryptocurrency mining is the process of validating transactions and securing a cryptocurrency network by solving complex mathematical problems. Miners use powerful computers to perform these computations, which helps maintain the integrity of the blockchain, the decentralized ledger that records all transactions.
+
+34.**DATA MINING**
+
+Data mining is the process of discovering patterns, correlations, and insights from large datasets using statistical, mathematical, and computational techniques. It involves extracting useful information from data to support decision-making and uncover trends.
+
+35.**PROTOCOLS**
+
+In computing and telecommunications, a protocol is a set of rules and conventions that governs how data is transmitted and received over a network. Protocols ensure that different devices and systems can communicate effectively and understand each other despite differences in their underlying hardware and software. They define the format, timing, sequencing, and error-checking mechanisms for data exchange.
+
+36.**KIVY**
+
+Kivy is an open-source Python library used for developing multi-touch applications and graphical user interfaces (GUIs). It is particularly well-suited for creating cross-platform applications that can run on various operating systems, including Windows, macOS, Linux, iOS, and Android. Kivy is known for its ease of use, flexibility, and ability to create modern, responsive interfaces.
+
+37.**LOKI**
+
+Loki is a log aggregation system designed to be used with Grafana for log analysis and visualization. It is built to handle large volumes of log data with high efficiency and is part of the observability stack often used alongside monitoring tools like Prometheus.
+
+38.**STACK**
+
+The concept of a stack is fundamental in various areas of computing. Whether you’re dealing with data structures, software stacks for building applications, call stacks for managing function calls, or tech stacks for describing technology combinations, understanding how stacks work is crucial for effective programming and system design. Each context where "stack" is used has its own unique characteristics and applications, making it a versatile and important concept in the field of computing.
+
+39.**Kubernetes(k8s)**
+
+It is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF). Kubernetes is widely used to manage complex applications in cloud environments and has become a standard for container orchestration.
+
