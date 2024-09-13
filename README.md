@@ -238,5 +238,48 @@ A cache is a high-speed storage layer that temporarily holds frequently accessed
 
 ~layer7-application/protocol
 
+23.**URL**
 
+A URL (Uniform Resource Locator) is a reference or address used to access resources on the internet. It specifies the location of a resource and the protocol used to retrieve it. URLs are a fundamental part of web navigation, allowing users and applications to find and interact with web content.
 
+24.**APACHE**
+
+Apache, often referred to as the Apache HTTP Server or simply Apache, is one of the most popular and widely used web server software applications. It is open-source, meaning its source code is freely available for modification and distribution.
+
+25.**PACKETS**
+
+A packet is a discrete chunk of data sent over a network. It includes not only the payload (the actual data being transmitted) but also control information that helps ensure the data reaches its destination correctly and efficiently.
+
+Components of a Packet
+
+**Header:** Contains metadata about the packet, including:
+
+Source Address: The IP address or identifier of the device sending the packet.
+
+Destination Address: The IP address or identifier of the device intended to receive the packet.
+
+Sequence Number: Used to reassemble packets in the correct order at the destination.
+
+Protocol Information: Indicates the protocol used (e.g., TCP, UDP).
+
+Error Checking Information: Includes checksums or other data integrity mechanisms.
+
+**Payload:** The actual data being transmitted. This can be part of a file, a message, or any other form of data.
+
+**Trailer:** (Optional) Contains additional information such as error checking data, and in some protocols, it marks the end of the packet.
+
+26.**LOAD BALANCER**
+
+A load balancer is a crucial component in network architecture and application deployment, designed to distribute incoming network or application traffic across multiple servers or resources. This helps ensure that no single server becomes overwhelmed, improving the overall performance, reliability, and availability of services.
+
+Key Functions of a Load Balancer
+
+**Traffic Distribution:** Distributes incoming requests or traffic evenly across multiple servers or resources to prevent any single server from becoming a bottleneck.
+
+**Health Monitoring:** Continuously monitors the health and performance of servers. If a server fails or becomes unresponsive, the load balancer redirects traffic to healthy servers.
+
+**Session Persistence:** Manages session persistence (also known as session affinity or sticky sessions) to ensure that a user's requests are consistently directed to the same server if required by the application.
+
+**Scalability:** Facilitates the scaling of applications by adding or removing servers from the pool as needed, either manually or automatically.
+
+**Failover and Redundancy:** Provides failover capabilities by redirecting traffic from failed or overloaded servers to operational ones, enhancing system reliability and uptime.
