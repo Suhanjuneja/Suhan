@@ -56,7 +56,7 @@ The kernel is the core component of an operating system that manages hardware re
 
 Linux is an open-source, Unix-like operating system kernel that forms the basis for various operating systems (distributions). It manages hardware resources and provides a platform for running applications. Linux is known for its stability, security, and flexibility, and is widely used in servers, desktops, and embedded systems.
 
-![image alt](
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/258eefc9ecdd1d2ca5d3f57fc9909b4a4424e495/LINUXIMG.webp)
 
 broad categorization of Linux distributions:
 
