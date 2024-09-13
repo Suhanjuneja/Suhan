@@ -344,3 +344,17 @@ The concept of a stack is fundamental in various areas of computing. Whether you
 
 It is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF). Kubernetes is widely used to manage complex applications in cloud environments and has become a standard for container orchestration.
 
+40.**OPEN SOURCE**
+
+
+Open Source refers to a type of software licensing and development model where the source code of a software program is made available to the public for use, modification, and distribution. This model promotes transparency, collaboration, and community-driven innovation.
+
+41.**CLOSE SOURCE**
+
+Closed Source software, also known as proprietary software, refers to software whose source code is not made available to the public. Unlike open source software, where the source code is freely accessible and can be modified or redistributed, closed source software is controlled by its owner, who restricts access to the code.
+
+42.**FLUTTER**
+
+Flutter is an open-source UI software development toolkit created by Google for building natively compiled applications for mobile, web, and desktop from a single codebase. It’s widely used for developing cross-platform applications and offers a range of features and advantages for developers.
+
+43.**
