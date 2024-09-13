@@ -365,6 +365,8 @@ Flutter is an open-source UI software development toolkit created by Google for 
 
 A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. As the name suggests, it is an entire system fabricated on a silicon chip. The beauty of an SoC is that it integrates all the components on a single substrate. In semiconductors, a substrate is a thin film of silicon used to fabricate integrated circuits. In contrast to the traditional motherboard, SoC integrates the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
 
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/c0b0f164a361b65669ee283c8e49ae530b5be07c/soc.jpeg)
+
 44.**COMPUTER SYSTEM ARCHITECTURE**
 
 Computer System Architecture refers to the design and organization of a computer system's hardware components and their interaction with each other and with software. It encompasses the structure and behavior of a computer system, defining how the various elements work together to perform computing tasks. Understanding computer system architecture is fundamental for designing efficient and effective computer systems. 
