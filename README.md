@@ -73,6 +73,8 @@ Red Hat Enterprise Linux (RHEL): A commercial distribution focused on enterprise
 CentOS: Originally a free and open-source alternative to RHEL, CentOS Stream now serves as a rolling-release variant that tracks just ahead of RHEL.
 Fedora: A cutting-edge distribution that showcases the latest in Linux technology, often serving as a proving ground for features that may later be included in RHEL.
 
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/d13dea52043cf3f2bb3a78fd2e119ff8c329c63d/red-hat.htm)
+
 8.**NETWORK**
 
  A network refers to a system of interconnected computers and other devices that can communicate with each other and share resources. Networks can vary in size, complexity, and purpose.
