@@ -192,8 +192,6 @@ Their ability to control electrical signals and switch between conductive and no
 
 Cloud computing delivers computing services over the internet, or "the cloud," allowing users to access and manage resources like servers, storage, databases, networking, software, and analytics without having to own or maintain physical hardware. Instead, users pay for the services they use on a subscription or pay-as-you-go basis.
 
-![image alt](https://github.com/Suhanjuneja/Suhan/blob/b86cf48be53c97c976222ef72fdf3f61d190a127/BENEFITS-OF-CLOUD-COMPUTING--1024x889.png.webp)
-
 Key Models of Cloud Computing
 
 **Infrastructure as a Service (IaaS):** Provides virtualized computing resources over the internet. Users can rent virtual machines, storage, and networks from cloud providers. Examples include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
