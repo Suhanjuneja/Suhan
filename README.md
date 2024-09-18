@@ -449,6 +449,8 @@ Container software typically refers to tools and platforms that enable the creat
 
 Docker is a platform that enables developers to automate the deployment, scaling, and management of applications using containerization
 
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/e31d3063313e99f720ad3b6a36b46a91fbbacfd4/docker.jpg)
+
 **Basic Commands**
 
 docker run: Create and start a container from an image.
