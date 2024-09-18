@@ -73,7 +73,7 @@ Red Hat Enterprise Linux (RHEL): A commercial distribution focused on enterprise
 CentOS: Originally a free and open-source alternative to RHEL, CentOS Stream now serves as a rolling-release variant that tracks just ahead of RHEL.
 Fedora: A cutting-edge distribution that showcases the latest in Linux technology, often serving as a proving ground for features that may later be included in RHEL.
 
-![image alt](
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/0cb67159b4629f3ee8b35346b132a70e3d41b7a2/redhat.jpg)
 
 8.**NETWORK**
 
