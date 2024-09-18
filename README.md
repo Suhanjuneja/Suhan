@@ -441,3 +441,27 @@ Domain Name System (DNS) is a fundamental component of the Internet that transla
 
 Syntax refers to the set of rules and principles that govern the structure of sentences in a language, whether it's a natural language like English or a formal language used in programming. Understanding syntax is crucial for both human communication and computer programming
 
+52.**CONTAINER**
+
+Container software typically refers to tools and platforms that enable the creation, deployment, and management of containers. 
+
+53.**DOCKER**
+
+Docker is a platform that enables developers to automate the deployment, scaling, and management of applications using containerization
+
+**Basic Commands**
+
+docker run: Create and start a container from an image.
+
+docker build: Build a Docker image from a Dockerfile.
+
+docker ps: List running containers.
+
+docker images: List available images on your local machine.
+
+docker stop: Stop a running container.
+
+docker rm: Remove a stopped container.
+
+docker rmi: Remove an image.
+
