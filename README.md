@@ -465,3 +465,22 @@ docker rm: Remove a stopped container.
 
 docker rmi: Remove an image.
 
+54.**NGINX**
+
+NGINX (pronounced "engine-x") is a high-performance web server and reverse proxy server widely used for serving static content, load balancing, and handling web traffic. 
+
+**Key Features**
+
+**Web Server**: NGINX can serve static files (HTML, CSS, JavaScript, images) very efficiently.
+
+**Reverse Proxy**: It can act as an intermediary for requests from clients seeking resources from backend servers. This helps in load balancing and caching.
+
+**Load Balancing**: NGINX can distribute incoming traffic across multiple servers, improving availability and reliability.
+
+**SSL/TLS Termination**: NGINX can handle HTTPS traffic by terminating SSL connections, which offloads the processing from backend servers.
+
+**Caching**: It can cache responses to improve performance and reduce the load on backend services.
+
+**URL Rewriting**: NGINX supports flexible URL manipulation and redirection, making it easier to manage complex routing scenarios.
+
+**High Concurrency**: Designed to handle a large number of simultaneous connections efficiently, making it suitable for high-traffic websites.
