@@ -244,6 +244,8 @@ A cache is a high-speed storage layer that temporarily holds frequently accessed
 
 ~layer7-application/protocol
 
+![image alt](https://github.com/Suhanjuneja/Suhan/blob/0587c1f87b860288007aeb24b7a63ef6e6b2d619/The%207%20Layers%20of%20OSI.webp)
+
 23.**URL**
 
 A URL (Uniform Resource Locator) is a reference or address used to access resources on the internet. It specifies the location of a resource and the protocol used to retrieve it. URLs are a fundamental part of web navigation, allowing users and applications to find and interact with web content.
