@@ -490,3 +490,7 @@ NGINX (pronounced "engine-x") is a high-performance web server and reverse proxy
 **URL Rewriting**: NGINX supports flexible URL manipulation and redirection, making it easier to manage complex routing scenarios.
 
 **High Concurrency**: Designed to handle a large number of simultaneous connections efficiently, making it suitable for high-traffic websites.
+
+55. **MINIKUBE**
+
+Minikube is a tool that allows you to run a local Kubernetes cluster on your machine. It's particularly useful for developers who want to experiment with Kubernetes without needing a full-fledged cloud setup. Minikube creates a single-node cluster inside a virtual machine (or as a container) on your local system, making it easy to deploy, manage, and test applications in a Kubernetes environment.
